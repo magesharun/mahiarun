@@ -1,0 +1,27 @@
+# To-Do App
+
+## Description
+A simple and intuitive **To-Do App** designed to help users manage tasks effectively. The app allows users to add, edit, delete, and mark tasks as completed. Built with a focus on functionality and a clean user interface, it’s perfect for everyday task management.
+
+## Table of Contents
+1. [Features](#features)
+2. [Demo](#demo)
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [Technologies Used](#technologies-used)
+6. [Contributing](#contributing)
+7. [License](#license)
+8. [Contact](#contact)
+
+## Features
+- Add tasks with ease.
+- Edit tasks when plans change.
+- Mark tasks as complete to track progress.
+- Delete tasks to keep your list clean.
+- Responsive design for mobile and desktop.
+
+
+### Steps
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/todo-app.git
